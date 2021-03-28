@@ -35,7 +35,20 @@ You can change your security settings by visiting your profile but here are a fe
 
 Please treat others as you would expect to be treated yourself. Also please remember that the organisers of the hackathon are trying their best and are working as hard as they can to make this a success. Please feel free to raise any concerns but please do so respectfully, courteously and with understanding. We will do our best to help where we can.
 
+## Have fun
 
+This is the most important piece of advice! We want you to enjoy yourself and get the most out of this event.
+
+## Carry on
+
+Although the Cambridge festival is from March 26 - April 2 the projects will still be available for as long as possible so don't worry if you couldn't finish or you don't have time.
+
+## The projects
+
+1. BBC:Microbit
+2. Covid
+3. Reefer Raker (dhtml)
+4. Reefer Raker (Vue.js)
 
 
 

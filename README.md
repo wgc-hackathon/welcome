@@ -28,8 +28,7 @@ Please make sure that you keep your github details secure and use an appropriate
 
 You can change your security settings by visiting your profile but here are a few pieces of advice:
 - it is recommended that you use 2 factor authentication. This adds an extra layer of security.
-- it is recommended for you to keep your emails private. You can change this by going to your profile > account settings > emails and check the box which says keep my emails private
-- For safeguarding purposes please do not accept invitations to communicate with other members privately if you are under 18 and if you are concernet about any communications that you have received please contact us.
+- it is recommended for you to keep your emails private. You can change this by going to your profile > account settings > emails and check the box which says keep my emails private.
 
 ## Be nice
 

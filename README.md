@@ -21,4 +21,6 @@ This platform is being moderated to ensure it is a safe and inclusive space for 
 
 If you have any problems or question please contact our public engagement team at [mailto](engage@wgc.org.uk)
 
+alternatively you can contact us via the discussions.
+
 

@@ -45,10 +45,10 @@ Although the Cambridge festival is from March 26 - April 2 the projects will sti
 
 ## The projects
 
-1. BBC:Microbit
-2. Covid
-3. Reefer Raker (dhtml)
-4. Reefer Raker (Vue.js)
+1. **BBC:Microbit** - Program a BBC micro:bit and facilitate covid sequencing in the lab. Open to all new coders of all ages. No experience necessary!
+2. **Covid** - COVID-19 Open Data Analysis To Identify The Next Variant Of Concern
+3. **Reefer Raker (dhtml)** - Build a prototype for an application to track moving boxes into the reefers (freezers) using HTML, CSS and JavaScript
+4. **Reefer Raker (Vue.js)** - Build an application to track moving boxes into the reefers (freezers) using the JavaScript front end framework Vue.js
 
 
 

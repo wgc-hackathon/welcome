@@ -45,10 +45,10 @@ Although the Cambridge festival is from March 26 - April 2 the projects will sti
 
 ## The projects
 
-1. **BBC:Microbit** - Program a BBC micro:bit and facilitate covid sequencing in the lab. Open to all new coders of all ages. No experience necessary!
-2. **Covid** - COVID-19 Open Data Analysis To Identify The Next Variant Of Concern
-3. **Reefer Raker (dhtml)** - Build a prototype for an application to track moving boxes into the reefers (freezers) using HTML, CSS and JavaScript
-4. **Reefer Raker (Vue.js)** - Build an application to track moving boxes into the reefers (freezers) using the JavaScript front end framework Vue.js
+1. **[BBC:Microbit](https://github.com/wgc-hackathon/bbc-micro-bit)** - Program a BBC micro:bit and facilitate covid sequencing in the lab. Open to all new coders of all ages. No experience necessary!
+2. **[Covid](https://github.com/wgc-hackathon/covid)** - COVID-19 Open Data Analysis To Identify The Next Variant Of Concern
+3. **[Reefer Raker (dhtml)](https://github.com/wgc-hackathon/reefer-raker-dhtml)** - Build a prototype for an application to track moving boxes into the reefers (freezers) using HTML, CSS and JavaScript
+4. **[Reefer Raker (Vue.js)](https://github.com/wgc-hackathon/reefer-raker-vue)** - Build an application to track moving boxes into the reefers (freezers) using the JavaScript front end framework Vue.js
 
 
 

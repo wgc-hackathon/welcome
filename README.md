@@ -32,7 +32,9 @@ You can change your security settings by visiting your profile but here are a fe
 
 ## Be nice
 
-Please treat others as you would expect to be treated yourself. Also please remember that the organisers of the hackathon are trying their best and are working as hard as they can to make this a success. Please feel free to raise any concerns but please do so respectfully, courteously and with understanding. We will do our best to help where we can.
+You can read the [Github commnunity guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines) which will give you an idea of what is expected.
+
+Please treat others as you would like to be treated yourself. Also please remember that the organisers of the hackathon are trying their best and are working as hard as they can to make this a success. Please feel free to raise any concerns but please do so respectfully, courteously and with understanding. We will do our best to help where we can.
 
 ## Have fun
 

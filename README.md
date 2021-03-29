@@ -38,6 +38,10 @@ Please treat others as you would expect to be treated yourself. Also please reme
 
 This is the most important piece of advice! We want you to enjoy yourself and get the most out of this event.
 
+## Have a go
+
+Don't be scared to have a go at any of the projects. No need to wait for the workshops. All of the instructions are there to get you started. If you have any questions or problems then please feel free to post something on the discussions board.
+
 ## Carry on
 
 Although the Cambridge festival is from March 26 - April 2 the projects will still be available for as long as possible so don't worry if you couldn't finish or you don't have time.
